@@ -1,0 +1,7 @@
+Arduino Uno R3
+
+1× RGB LED (common cathode or common anode — we’ll assume common cathode)
+
+3× 220 Ω resistors (one per color channel)
+
+Breadboard + jumper wires
