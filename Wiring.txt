@@ -1,0 +1,7 @@
+RGB LED long leg (cathode) → GND
+
+Red leg → resistor → D9
+
+Green leg → resistor → D10
+
+Blue leg → resistor → D11
